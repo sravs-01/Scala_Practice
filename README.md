@@ -13,8 +13,8 @@ Make sure you have the following installed:
 ### Setup & Run
 Clone the repository:
 ```sh
-git clone https://github.com/sravs-01/scala-practice.git
-cd scala-practice
+git clone https://github.com/sravs-01/Scala-Practice.git
+cd Scala-Practice
 ```
 Compile and run a Scala file:
 ```sh
